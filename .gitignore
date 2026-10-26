@@ -1,0 +1,31 @@
+﻿# Compiled Java output
+/bin/
+*.class
+
+# IDE and editor files
+/.vscode/
+/.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local
+secrets.*
+credentials.*
+.aws/
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
